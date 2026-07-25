@@ -207,26 +207,6 @@ Currently_building:
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
-<br/>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=4ADE80&vCenter=true&width=450&height=30&lines=$+./play_snake.sh" alt="Typing SVG" />
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anikait-reddy15/anikait-reddy15/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anikait-reddy15/anikait-reddy15/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anikait-reddy15/anikait-reddy15/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<br/>
-
-<!-- DIVIDER -->
-
-<!-- ANIMATED DIVIDER -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-</div>
 
 <br/>
 
