@@ -233,49 +233,6 @@ Currently_building:
 └─────────────────────────────────────────────────────────────┘
 ```
 
----
-
-### 🔹 [Particle-Detector](https://github.com/anikait-reddy15/Particle-Detector)
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ FOCUS    -> Gamma vs Hadron particle classification         │
-│ STACK    -> Scikit-Learn · Data Science                     │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-### 🔹 [Stock-Price-Detector](https://github.com/anikait-reddy15/Stock-Price-Detector)
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ FOCUS    -> Time-series stock price prediction              │
-│ STACK    -> Regression · Forecasting                        │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-### 🔹 [Boston-House-Price-Detector](https://github.com/anikait-reddy15/Boston-House-Price-Detector)
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ FOCUS    -> Boston house price regression                   │
-│ STACK    -> Linear Regression · Scikit-Learn                │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-### 🔹 [Spam-Detector](https://github.com/anikait-reddy15/Spam-Detector)
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ FOCUS    -> Email spam classification                       │
-│ STACK    -> Naive Bayes · NLP                               │
-└─────────────────────────────────────────────────────────────┘
-```
 
 <br/>
 
@@ -327,17 +284,6 @@ Currently_building:
 </div>
 
 > Prompt engineering, local models, fine-tuning, and inference optimization.
-
-### 🔹 Fake App Detector
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│ FOCUS    -> Fake application detection                      │
-│ STACK    -> TinyLlama · Streamlit                           │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
 
 ### 🔹 [Sentiment Analysis w/ LoRA](https://github.com/anikait-reddy15/Sentiment-Analysis-w--LoRA)
 
